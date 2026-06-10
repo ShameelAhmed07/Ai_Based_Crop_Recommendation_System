@@ -153,7 +153,7 @@ POST /api/predict
 **Shameel Ahmed**
 Student — Sir Syed University of Engineering & Technology (SSUET)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/Shameel-Ahmed](https://www.linkedin.com/in/shameel-ahmed-963baa294/?skipRedirect=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shameel-ahmed-963baa294/?skipRedirect=true)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ShameelAhmed07)
 
 ---
